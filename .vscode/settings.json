@@ -1,6 +1,0 @@
-{
-    "git.ignoreLimitWarning": true,
-    "files.associations": {
-        "fault_injector_api.h": "c"
-    }
-}
